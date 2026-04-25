@@ -2,6 +2,8 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+This is my fork of dmenu containing my preferred patches and settings.
+For more information check out tools.suckless.org/dmenu
 
 Requirements
 ------------
